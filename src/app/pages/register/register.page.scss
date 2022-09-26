@@ -1,0 +1,14 @@
+ion-button[color="dark"] {
+    text-transform: initial;
+    margin: 10px;
+}
+
+ion-content {
+    --background: var(--ion-color-danger);
+}
+
+.checkbox {
+    ion-item {
+        font-size: 0.7rem;
+    }
+}
